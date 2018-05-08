@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  8 14:07:39 2018
-
-@author: tcolin
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 07 09:21:58 2018
-
-@author: Thomas PC
-"""
 import pandas as pd 
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix, classification_report
